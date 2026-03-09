@@ -19,3 +19,10 @@ Head to [execify.vercel.app](https://execify.vercel.app) to grab your early acce
 ---
 
 *Built by [@Maazin-Ahmed](https://github.com/Maazin-Ahmed)*
+
+
+---
+
+### 📄 Investor Overview
+
+Read the full operating and investor memo here: **[INVESTOR_OVERVIEW.md](./INVESTOR_OVERVIEW.md)**
